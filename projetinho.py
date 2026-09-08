@@ -1,6 +1,7 @@
 import requests
 import json
 from datetime import datetime
+from aircraft import Aircraft
 
 opensky = requests.get('https://opensky-network.org/api/states/all?lamin=-34&lomin=-57&lamax=-22&lomax=-48')
 
@@ -12,23 +13,6 @@ dados = opensky.json()
 
 frotas = []
 nova_frota = []
-
-
-class Aircraft:
-    def __init__(self, callsign, origin, longitude, latitude, altitude_metros, speed_ms):
-        self.callsign = callsign
-        self.origin = origin
-        self.longitude = longitude
-        self.latitude = latitude
-        if altitude_metros is not None:
-            self.altitude_fl = (altitude_metros * 3.28) / 100
-        else:
-            self.altitude_fl = None
-        if speed_ms is not None:
-            self.speed_kt = (speed_ms * 1.94)
-        else:
-            self.speed_kt = None
-
 
 for lista in dados['states']:
     callsign = lista[1]
