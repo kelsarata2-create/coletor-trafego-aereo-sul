@@ -36,9 +36,9 @@ for avioes in frotas:
     except TypeError:
         dicionario_frotas['Altitude'] = 'Sem dados'
     try:
-        dicionario_frotas['Speed'] = f'{int(avioes.speed_kt)} kt'
+        dicionario_frotas['Speed(kt)'] = f'{int(avioes.speed_kt)} kt'
     except TypeError:
-        dicionario_frotas['Speed'] = 'Sem dados'
+        dicionario_frotas['Speed(kt)'] = 'Sem dados'
     nova_frota.append(dicionario_frotas)
 
 with open(f'voos_sul_{datetime.now().strftime("%d-%m-%Y-%H-%M-%S")}.json', 'w', encoding='utf-8') as arquivo:
