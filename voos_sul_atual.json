@@ -1,34 +1,26 @@
 [
     {
-        "Callsign": "LCO3614 ",
-        "Origin": "United States",
-        "Longitude": -55.6079,
-        "Latitude": -32.2636,
-        "Flight level": "FL 379",
-        "Speed(kt)": "359 kt"
-    },
-    {
-        "Callsign": "",
+        "Callsign": "ARG1960 ",
         "Origin": "Argentina",
-        "Longitude": -55.517,
-        "Latitude": -32.2132,
-        "Flight level": "FL 399",
-        "Speed(kt)": "423 kt"
+        "Longitude": -49.3874,
+        "Latitude": -28.5612,
+        "Flight level": "FL 349",
+        "Speed(kt)": "452 kt"
     },
     {
-        "Callsign": "CMP820  ",
-        "Origin": "Panama",
-        "Longitude": -55.5173,
-        "Latitude": -23.3348,
-        "Flight level": "FL 339",
-        "Speed(kt)": "371 kt"
+        "Callsign": "TAM3854 ",
+        "Origin": "Brazil",
+        "Longitude": -49.9546,
+        "Latitude": -25.1034,
+        "Flight level": "FL 279",
+        "Speed(kt)": "370 kt"
     },
     {
-        "Callsign": "CMP743  ",
-        "Origin": "Panama",
-        "Longitude": -49.04,
-        "Latitude": -22.1833,
-        "Flight level": "FL 369",
-        "Speed(kt)": "483 kt"
+        "Callsign": "LAP1303 ",
+        "Origin": "Brazil",
+        "Longitude": -55.7547,
+        "Latitude": -25.4592,
+        "Flight level": "FL 303",
+        "Speed(kt)": "474 kt"
     }
 ]
