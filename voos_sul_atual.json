@@ -1,42 +1,26 @@
 [
     {
-        "Callsign": "ARG1958 ",
-        "Origin": "Argentina",
-        "Longitude": -56.0244,
-        "Latitude": -33.6708,
-        "Flight level": "FL 349",
-        "Speed(kt)": "472 kt"
+        "Callsign": "TPA4051 ",
+        "Origin": "United States",
+        "Longitude": -48.6027,
+        "Latitude": -26.6475,
+        "Flight level": "FL 288",
+        "Speed(kt)": "395 kt"
     },
     {
-        "Callsign": "GLO7645 ",
+        "Callsign": "GLO9610 ",
         "Origin": "Brazil",
-        "Longitude": -56.152,
-        "Latitude": -33.239,
-        "Flight level": "FL 359",
-        "Speed(kt)": "494 kt"
-    },
-    {
-        "Callsign": "TAM8131 ",
-        "Origin": "Brazil",
-        "Longitude": -54.9552,
-        "Latitude": -32.831,
-        "Flight level": "FL 350",
-        "Speed(kt)": "472 kt"
-    },
-    {
-        "Callsign": "GLO7723 ",
-        "Origin": "Brazil",
-        "Longitude": -49.3241,
-        "Latitude": -28.4044,
-        "Flight level": "FL 369",
-        "Speed(kt)": "458 kt"
-    },
-    {
-        "Callsign": "LAP1303 ",
-        "Origin": "Brazil",
-        "Longitude": -52.6799,
-        "Latitude": -24.7973,
+        "Longitude": -48.0888,
+        "Latitude": -22.5084,
         "Flight level": "FL 369",
         "Speed(kt)": "490 kt"
+    },
+    {
+        "Callsign": "KLM701  ",
+        "Origin": "Kingdom of the Netherlands",
+        "Longitude": -48.8732,
+        "Latitude": -27.396,
+        "Flight level": "FL 379",
+        "Speed(kt)": "444 kt"
     }
 ]
