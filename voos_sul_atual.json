@@ -1,90 +1,90 @@
 [
     {
-        "Callsign": "LAN507  ",
-        "Origin": "Chile",
-        "Longitude": -56.7482,
-        "Latitude": -28.9444,
-        "Flight level": "FL 379",
-        "Speed(kt)": "372 kt"
+        "Callsign": "ARG1140 ",
+        "Origin": "Argentina",
+        "Longitude": -56.4483,
+        "Latitude": -33.9709,
+        "Flight level": "FL 295",
+        "Speed(kt)": "490 kt"
     },
     {
         "Callsign": "AZU2746 ",
         "Origin": "Brazil",
-        "Longitude": -49.6285,
-        "Latitude": -27.0728,
-        "Flight level": "FL 364",
-        "Speed(kt)": "442 kt"
-    },
-    {
-        "Callsign": "ARG1132 ",
-        "Origin": "Argentina",
-        "Longitude": -55.9133,
-        "Latitude": -33.4744,
+        "Longitude": -50.3392,
+        "Latitude": -28.5402,
         "Flight level": "FL 335",
-        "Speed(kt)": "480 kt"
+        "Speed(kt)": "425 kt"
     },
     {
         "Callsign": "TAM8016 ",
         "Origin": "Brazil",
-        "Longitude": -48.5593,
-        "Latitude": -26.8684,
+        "Longitude": -49.7927,
+        "Latitude": -28.1059,
         "Flight level": "FL 319",
         "Speed(kt)": "438 kt"
     },
     {
+        "Callsign": "THY16   ",
+        "Origin": "Turkey",
+        "Longitude": -56.2703,
+        "Latitude": -33.6358,
+        "Flight level": "FL 346",
+        "Speed(kt)": "498 kt"
+    },
+    {
         "Callsign": "LAN773  ",
         "Origin": "Chile",
-        "Longitude": -55.5874,
-        "Latitude": -28.5088,
+        "Longitude": -56.5275,
+        "Latitude": -28.8661,
         "Flight level": "FL 379",
-        "Speed(kt)": "377 kt"
+        "Speed(kt)": "372 kt"
     },
     {
         "Callsign": "LAN756  ",
         "Origin": "Chile",
-        "Longitude": -49.229,
-        "Latitude": -27.9085,
-        "Flight level": "FL 350",
-        "Speed(kt)": "408 kt"
+        "Longitude": -48.7081,
+        "Latitude": -26.4138,
+        "Flight level": "FL 349",
+        "Speed(kt)": "425 kt"
+    },
+    {
+        "Callsign": "ETH507  ",
+        "Origin": "Ethiopia",
+        "Longitude": -51.2991,
+        "Latitude": -27.4054,
+        "Flight level": "FL 409",
+        "Speed(kt)": "493 kt"
     },
     {
         "Callsign": "TA4059  ",
         "Origin": "United States",
-        "Longitude": -50.2652,
-        "Latitude": -24.8549,
+        "Longitude": -51.1224,
+        "Latitude": -25.7725,
         "Flight level": "FL 379",
-        "Speed(kt)": "459 kt"
-    },
-    {
-        "Callsign": "TAM3426 ",
-        "Origin": "Brazil",
-        "Longitude": -50.3562,
-        "Latitude": -28.8989,
-        "Flight level": "FL 286",
-        "Speed(kt)": "411 kt"
+        "Speed(kt)": "447 kt"
     },
     {
         "Callsign": "TAM4610 ",
         "Origin": "Brazil",
-        "Longitude": -48.9389,
-        "Latitude": -23.5697,
+        "Longitude": -50.0549,
+        "Latitude": -23.7122,
         "Flight level": "FL 339",
-        "Speed(kt)": "362 kt"
+        "Speed(kt)": "383 kt"
+    },
+    {
+        "Callsign": "TAM3119 ",
+        "Origin": "Brazil",
+        "Longitude": -48.5315,
+        "Latitude": -23.1513,
+        "Flight level": "FL 359",
+        "Speed(kt)": "392 kt"
     },
     {
         "Callsign": "LAP1302 ",
         "Origin": "Brazil",
-        "Longitude": -53.6041,
-        "Latitude": -23.708,
+        "Longitude": -55.1019,
+        "Latitude": -24.1919,
         "Flight level": "FL 339",
-        "Speed(kt)": "388 kt"
-    },
-    {
-        "Callsign": "AFR471  ",
-        "Origin": "France",
-        "Longitude": -54.8318,
-        "Latitude": -32.7981,
-        "Flight level": "FL 329",
-        "Speed(kt)": "531 kt"
+        "Speed(kt)": "391 kt"
     }
 ]
