@@ -1,58 +1,50 @@
 [
     {
-        "Callsign": "LPE2394 ",
-        "Origin": "Chile",
-        "Longitude": -48.0221,
-        "Latitude": -22.7948,
-        "Flight level": "FL 283",
-        "Speed(kt)": "485 kt"
+        "Callsign": "ARG1140 ",
+        "Origin": "Argentina",
+        "Longitude": -48.1917,
+        "Latitude": -27.5999,
+        "Flight level": "FL 349",
+        "Speed(kt)": "483 kt"
     },
     {
         "Callsign": "LCO3614 ",
         "Origin": "United States",
-        "Longitude": -49.2422,
-        "Latitude": -28.2283,
-        "Flight level": "FL 318",
-        "Speed(kt)": "439 kt"
-    },
-    {
-        "Callsign": "ARG1132 ",
-        "Origin": "Argentina",
-        "Longitude": -48.4241,
-        "Latitude": -27.4522,
-        "Flight level": "FL 349",
-        "Speed(kt)": "475 kt"
+        "Longitude": -50.7153,
+        "Latitude": -29.147,
+        "Flight level": "FL 379",
+        "Speed(kt)": "394 kt"
     },
     {
         "Callsign": "THY16   ",
         "Origin": "Turkey",
-        "Longitude": -50.9432,
-        "Latitude": -28.2108,
+        "Longitude": -49.5662,
+        "Latitude": -26.4954,
         "Flight level": "FL 409",
-        "Speed(kt)": "465 kt"
-    },
-    {
-        "Callsign": "TPA4051 ",
-        "Origin": "United States",
-        "Longitude": -48.5921,
-        "Latitude": -27.6436,
-        "Altitude": "874 ft",
-        "Speed(kt)": "146 kt"
+        "Speed(kt)": "482 kt"
     },
     {
         "Callsign": "ARG1133 ",
         "Origin": "Argentina",
-        "Longitude": -50.3378,
-        "Latitude": -26.4115,
+        "Longitude": -51.5555,
+        "Latitude": -28.089,
         "Flight level": "FL 399",
-        "Speed(kt)": "441 kt"
+        "Speed(kt)": "470 kt"
+    },
+    {
+        "Callsign": "TAM3308 ",
+        "Origin": "Brazil",
+        "Longitude": -48.248,
+        "Latitude": -26.5571,
+        "Flight level": "FL 175",
+        "Speed(kt)": "352 kt"
     },
     {
         "Callsign": "CMP424  ",
         "Origin": "Panama",
-        "Longitude": -48.9502,
-        "Latitude": -26.3782,
-        "Flight level": "FL 266",
-        "Speed(kt)": "367 kt"
+        "Longitude": -49.9382,
+        "Latitude": -25.003,
+        "Flight level": "FL 339",
+        "Speed(kt)": "392 kt"
     }
 ]
