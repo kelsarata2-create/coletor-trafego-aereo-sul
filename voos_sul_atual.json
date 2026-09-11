@@ -1,50 +1,42 @@
 [
     {
-        "Callsign": "ARG1140 ",
+        "Callsign": "ARG1960 ",
         "Origin": "Argentina",
-        "Longitude": -48.1917,
-        "Latitude": -27.5999,
+        "Longitude": -55.7211,
+        "Latitude": -33.3655,
         "Flight level": "FL 349",
-        "Speed(kt)": "483 kt"
-    },
-    {
-        "Callsign": "LCO3614 ",
-        "Origin": "United States",
-        "Longitude": -50.7153,
-        "Latitude": -29.147,
-        "Flight level": "FL 379",
-        "Speed(kt)": "394 kt"
+        "Speed(kt)": "478 kt"
     },
     {
         "Callsign": "THY16   ",
         "Origin": "Turkey",
-        "Longitude": -49.5662,
-        "Latitude": -26.4954,
-        "Flight level": "FL 409",
-        "Speed(kt)": "482 kt"
+        "Longitude": -48.0587,
+        "Latitude": -24.6145,
+        "Flight level": "FL 328",
+        "Speed(kt)": "501 kt"
     },
     {
-        "Callsign": "ARG1133 ",
-        "Origin": "Argentina",
-        "Longitude": -51.5555,
-        "Latitude": -28.089,
-        "Flight level": "FL 399",
-        "Speed(kt)": "470 kt"
+        "Callsign": "TAM8038 ",
+        "Origin": "Brazil",
+        "Longitude": -54.5432,
+        "Latitude": -24.8519,
+        "Flight level": "FL 360",
+        "Speed(kt)": "373 kt"
     },
     {
         "Callsign": "TAM3308 ",
         "Origin": "Brazil",
-        "Longitude": -48.248,
-        "Latitude": -26.5571,
-        "Flight level": "FL 175",
-        "Speed(kt)": "352 kt"
+        "Longitude": -48.593,
+        "Latitude": -27.6432,
+        "Altitude": "924 ft",
+        "Speed(kt)": "151 kt"
     },
     {
-        "Callsign": "CMP424  ",
+        "Callsign": "CMP820  ",
         "Origin": "Panama",
-        "Longitude": -49.9382,
-        "Latitude": -25.003,
+        "Longitude": -53.6231,
+        "Latitude": -25.7944,
         "Flight level": "FL 339",
-        "Speed(kt)": "392 kt"
+        "Speed(kt)": "345 kt"
     }
 ]
