@@ -1,50 +1,58 @@
 [
     {
-        "Callsign": "",
+        "Callsign": "LPE2394 ",
         "Origin": "Chile",
-        "Longitude": -50.1084,
-        "Latitude": -22.0891,
-        "Flight level": "FL 370",
-        "Speed(kt)": "501 kt"
+        "Longitude": -48.0221,
+        "Latitude": -22.7948,
+        "Flight level": "FL 283",
+        "Speed(kt)": "485 kt"
     },
     {
-        "Callsign": "ARG1269 ",
+        "Callsign": "LCO3614 ",
+        "Origin": "United States",
+        "Longitude": -49.2422,
+        "Latitude": -28.2283,
+        "Flight level": "FL 318",
+        "Speed(kt)": "439 kt"
+    },
+    {
+        "Callsign": "ARG1132 ",
         "Origin": "Argentina",
-        "Longitude": -56.9037,
-        "Latitude": -33.2404,
-        "Flight level": "FL 379",
-        "Speed(kt)": "397 kt"
+        "Longitude": -48.4241,
+        "Latitude": -27.4522,
+        "Flight level": "FL 349",
+        "Speed(kt)": "475 kt"
+    },
+    {
+        "Callsign": "THY16   ",
+        "Origin": "Turkey",
+        "Longitude": -50.9432,
+        "Latitude": -28.2108,
+        "Flight level": "FL 409",
+        "Speed(kt)": "465 kt"
     },
     {
         "Callsign": "TPA4051 ",
         "Origin": "United States",
-        "Longitude": -49.0899,
-        "Latitude": -26.6771,
-        "Flight level": "FL 225",
-        "Speed(kt)": "468 kt"
+        "Longitude": -48.5921,
+        "Latitude": -27.6436,
+        "Altitude": "874 ft",
+        "Speed(kt)": "146 kt"
     },
     {
         "Callsign": "ARG1133 ",
         "Origin": "Argentina",
-        "Longitude": -49.1049,
-        "Latitude": -24.8556,
+        "Longitude": -50.3378,
+        "Latitude": -26.4115,
         "Flight level": "FL 399",
-        "Speed(kt)": "455 kt"
+        "Speed(kt)": "441 kt"
     },
     {
-        "Callsign": "TAM8038 ",
-        "Origin": "Brazil",
-        "Longitude": -48.8385,
-        "Latitude": -23.6914,
-        "Flight level": "FL 359",
-        "Speed(kt)": "406 kt"
-    },
-    {
-        "Callsign": "AFR471  ",
-        "Origin": "France",
-        "Longitude": -48.0568,
-        "Latitude": -27.6496,
-        "Flight level": "FL 329",
-        "Speed(kt)": "514 kt"
+        "Callsign": "CMP424  ",
+        "Origin": "Panama",
+        "Longitude": -48.9502,
+        "Latitude": -26.3782,
+        "Flight level": "FL 266",
+        "Speed(kt)": "367 kt"
     }
 ]
