@@ -3,6 +3,7 @@ name: Coletor de Trafego Aereo
 on:
   schedule:
     - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   coletar:
